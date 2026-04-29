@@ -1,0 +1,7 @@
+{
+  "name": "New Om Jewellers",
+  "description": "Exquisite gold and diamond jewellery collection. BIS Certified, Est. 1995.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
